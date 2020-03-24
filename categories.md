@@ -1,6 +1,8 @@
 # Categories/Lenses
 
-The following are candidates for high-level categories or lenses foor product evaluation. 
+The following are candidates for high-level categories or lenses for product evaluation.
+The initial list is based on work done by Digital Impact Alliance. More details can be 
+found in the https://gitlab.com/dial/digital-global-goods/maturity-rubric repository.
 
 * Utility and Impact
 * Compliance
