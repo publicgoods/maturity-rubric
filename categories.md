@@ -39,7 +39,7 @@ SDG targets
 
 * Short description: Product utility and impact (with alignment to SDG agendas)
 * Is core category: Yes
-* Priority: 1
+* Priority: High
 
 
 ## Compliance
@@ -49,7 +49,7 @@ well as specific standards for the sector or domain that it addresses
 
 * Short description: Software standard and other domain-specific compliances
 * Is core category: Yes
-* Priority: 2
+* Priority: High
 
 
 ## Licensing
@@ -59,7 +59,7 @@ an open source license
 
 * Short description: Licensing and IP accessibility
 * Is core category: Yes
-* Priority: 3
+* Priority: Medium
 
 
 ## Financial Sustainability
@@ -69,7 +69,7 @@ sufficient revenue to sustain operations and are costs well managed
 
 Short description: Revenue generation and cost management
 Is core category: Yes
-Priority: 4
+Priority: High
 
 
 ## Community Health
@@ -79,7 +79,7 @@ diverse set of stakeholders that are contributing to the product
 
 Short description: Engagement, management and vitality of contributor community
 Is core category: Yes
-Priority: 5
+Priority: High
 
 
 ## Governance
@@ -89,7 +89,7 @@ are actively leading the direction of the product
 
 Short description: Governance, leadership and decision-making
 Is core category: Yes
-Priority: 6
+Priority: Medium
 
 
 ## Product Design
@@ -99,7 +99,7 @@ there a community of contributors who are defining the future of the product.
 
 Short description: Product design planning, feature release lifecycle code change / issue management 
 Is core category: Yes
-Priority: 7
+Priority: Medium
 
 
 ## Knowledge Management
@@ -109,7 +109,7 @@ procedures for contributors
 
 Short description: Documentation robustness and knowledge distribution for usage and code contribution
 Is core category: Yes
-Priority: 8
+Priority: Medium
 
 
 ## Product Quality
@@ -119,7 +119,7 @@ coding standards, and clear architecture
 
 Short description: General quality of a product 
 Is core category: Yes
-Priority: 9
+Priority: High
 
 
 ## Dependency and Risk
@@ -129,4 +129,4 @@ jeopardize the health and sustainability of the product
 
 Short description: Risk and dependency on community composition and organizational affiliations
 Is core category: Yes
-Priority: 10
+Priority: High

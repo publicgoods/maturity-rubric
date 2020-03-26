@@ -7,12 +7,11 @@ public goods.
 
 ## Introduction
 
-Many digital platforms have been developed to support Sustainable Development Goals. 
-However, no metric or system has been defined to evaluate the maturity, quality, and
+Many digital platforms have been developed to support the Sustainable Development Goals. 
+However, there are few metrics or systems defined to evaluate the maturity, quality, and
 sustainability of these goods. 
 
-This project is a cooperative effort led by [Digital Impact Alliance](https://digitalimpactalliance.org)
-and [Unicef Innovation](https://www.unicef.org/innovation/) to establish
+This project is a cooperative effort led by [Digital Impact Alliance](https://digitalimpactalliance.org), [Unicef Innovation](https://www.unicef.org/innovation/), and [Ovio](https://ovio.com) to establish
 a core set of categories and criteria that can be used to evaluate and 'score' digital 
 technologies. This data will provide much needed information to help actors understand and 
 select digital tools to support their projects and use cases.
@@ -29,7 +28,7 @@ select digital tools to support their projects and use cases.
 
 The goal of this work is to define a common taxonomy for evaluating digital products.
 This taxonomy will include broad categories for evaluating products and specific indicators
-or data points that can be collected.
+or data points that can be collected about a product. 
 
 
 ## Proposed workflow
