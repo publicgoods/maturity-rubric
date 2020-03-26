@@ -11,10 +11,7 @@ Many digital platforms have been developed to support the Sustainable Developmen
 However, there are few metrics or systems defined to evaluate the maturity, quality, and
 sustainability of these goods. 
 
-This project is a cooperative effort led by [Digital Impact Alliance](https://digitalimpactalliance.org), [Unicef Innovation](https://www.unicef.org/innovation/), and [Ovio](https://ovio.com) to establish
-a core set of categories and criteria that can be used to evaluate and 'score' digital 
-technologies. This data will provide much needed information to help actors understand and 
-select digital tools to support their projects and use cases.
+This project is a cooperative effort led by [Digital Impact Alliance](https://digitalimpactalliance.org) and partners to establish a core set of categories and criteria that can be used to evaluate and 'score' digital technologies. This data will provide much needed information to help actors understand and select digital tools to support their projects and use cases.
 
 
 ## Table of Contents
