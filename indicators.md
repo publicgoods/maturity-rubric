@@ -7,3 +7,9 @@ Each category may have between 8-12 indicators
 
 A page will be created for each category to facilitate conversation around the
 indicators that will be used to measure a product against this category.
+Mapping to existing maturity models (CHAOSS, Clearly Defined, Digital Square, DIAL)
+
+Establish a commuinity for each category who will review and provide final approval 
+for the indicators in that category.
+
+

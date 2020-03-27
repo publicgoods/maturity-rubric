@@ -19,12 +19,14 @@ This project is a cooperative effort led by [Digital Impact Alliance](https://di
 - [Goal](#goal)
 - [Proposed Workflow](#proposed-workflow)
 - [Contributing](#contributing)
+- [Governance](#governamce)
+- [Resources](Resources/README.md)
 
 
 ## Goal
 
-The goal of this work is to define a common taxonomy for evaluating digital products.
-This taxonomy will include broad categories for evaluating products and specific indicators
+The goal of this work is to define a common ontology for evaluating digital products.
+This ontology will include broad categories for evaluating products and specific indicators
 or data points that can be collected about a product. 
 
 
@@ -37,10 +39,22 @@ information on that work.
 The second phase of the work will be to define specific indicators for each category. 
 Indicators are data points that can be collected for each product that we wish to evaluate. 
 These indicators may be either quantitative or qualitative. See the [Indicators](indicators.md) 
-page for more information
+page for more information.
+
+Alongside the work above, we will also develop user profiles that describe different types 
+of users and how they will interact with the maturity rubric. The [Users](users.md) page 
+describes this work.
+
+Finally, we will develop a process for establishing scoring systems, where a product
+is assigned a specific score to indicate its maturity. The [Scoring](scoring.md) page outlines
+this work.
 
 
 ## Contributing
 
 We welcome contributions from individuals and organizations. See the 
 [Contributing](CONTRIBUTING.md) page for more information.
+
+
+## Governance
+
