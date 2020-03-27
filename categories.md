@@ -20,7 +20,8 @@ along with a brief description for each category:
 ## Workflow
 
 In this phase of work, users can suggest changes to the short description, the priority
-of this category and whether it is a core/required category. 
+of this category and whether it is a core/required category. Please submit these changes
+in a pull request.
 
 Users can also raise an issue to suggest a new category or the removal of one of the existing
 categories.
@@ -67,9 +68,9 @@ an open source license
 This category measures whether a product is financially viable - is the project generating
 sufficient revenue to sustain operations and are costs well managed
 
-Short description: Revenue generation and cost management
-Is core category: Yes
-Priority: High
+* Short description: Revenue generation and cost management
+* Is core category: Yes
+* Priority: High
 
 
 ## Community Health
@@ -77,9 +78,9 @@ Priority: High
 This category measures the health of the product community - whether there is a broad and 
 diverse set of stakeholders that are contributing to the product
 
-Short description: Engagement, management and vitality of contributor community
-Is core category: Yes
-Priority: High
+* Short description: Engagement, management and vitality of contributor community
+* Is core category: Yes
+* Priority: High
 
 
 ## Governance
@@ -87,9 +88,9 @@ Priority: High
 This category measures whether there is clear governance for the product and people who
 are actively leading the direction of the product
 
-Short description: Governance, leadership and decision-making
-Is core category: Yes
-Priority: Medium
+* Short description: Governance, leadership and decision-making
+* Is core category: Yes
+* Priority: Medium
 
 
 ## Product Design
@@ -97,9 +98,9 @@ Priority: Medium
 This category measures whether whether there is a clear roadmap for future enhancements whether
 there a community of contributors who are defining the future of the product.
 
-Short description: Product design planning, feature release lifecycle code change / issue management 
-Is core category: Yes
-Priority: Medium
+* Short description: Product design planning, feature release lifecycle code change / issue management 
+* Is core category: Yes
+* Priority: Medium
 
 
 ## Knowledge Management
@@ -107,9 +108,9 @@ Priority: Medium
 This category measures whether there is clear documentation for the product, the codebase, and
 procedures for contributors
 
-Short description: Documentation robustness and knowledge distribution for usage and code contribution
-Is core category: Yes
-Priority: Medium
+* Short description: Documentation robustness and knowledge distribution for usage and code contribution
+* Is core category: Yes
+* Priority: Medium
 
 
 ## Product Quality
@@ -117,9 +118,9 @@ Priority: Medium
 This category measures the general quality of the product, such as test coverage, adherance to
 coding standards, and clear architecture
 
-Short description: General quality of a product 
-Is core category: Yes
-Priority: High
+* Short description: General quality of a product 
+* Is core category: Yes
+* Priority: High
 
 
 ## Dependency and Risk
@@ -127,6 +128,6 @@ Priority: High
 This category measures whether a product has dependencies or other risk factors that could
 jeopardize the health and sustainability of the product
 
-Short description: Risk and dependency on community composition and organizational affiliations
-Is core category: Yes
-Priority: High
+* Short description: Risk and dependency on community composition and organizational affiliations
+* Is core category: Yes
+* Priority: High
