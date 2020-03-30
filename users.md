@@ -24,3 +24,5 @@ Technical users may be broken down further into:
 volunteers to specific projects)
 
 ## Procurement Users
+
+Procurement users will be able to use the rubric to evaluate similar products. 
