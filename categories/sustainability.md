@@ -4,8 +4,8 @@ This category measures whether a product is financially viable - is the project 
 sufficient revenue to sustain operations and are costs well managed
 
 * Short description: Revenue generation and cost management
-* Is core category: Yes
-* Priority: High
+* Is core category: Unknown
+* Priority: Deprioritized by DIAL
 
 
 ## Indicators

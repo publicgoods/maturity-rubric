@@ -4,8 +4,8 @@ This category measures whether a product has dependencies or other risk factors 
 jeopardize the health and sustainability of the product
 
 * Short description: Risk and dependency on community composition and organizational affiliations
-* Is core category: Yes
-* Priority: High
+* Is core category: Unknown
+* Priority: Deprioritized by DIAL
 
 
 ## Indicators
