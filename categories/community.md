@@ -27,6 +27,7 @@ The following are indicators for consideration for this category
 | Issue Count | CHAOSS | How many issues do employees of an organization create? |
 | Pull Request Count | CHAOSS | How many pull requests do employees of an organization create? |
 | COCOMO | CHAOSS | What is value contributed by employees of an organization as measured by COCOMO? |
+| New indicator | Steve | Test |
 
 
 See [this page](sources.md) for information about the list of maturity sources
