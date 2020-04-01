@@ -14,7 +14,7 @@ rubric. The issue can be discussed through the comment threads and once there is
 consensus on a course of action, the issue owner can make any necessary changes.
 
 
-# Submit a Pull Request
+## Submit a Pull Request
 
 To make a change to an existing document in this repository, a user can make a 
 change or edit to a file and submit that change as a pull request or PR. 
