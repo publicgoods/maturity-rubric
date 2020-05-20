@@ -12,8 +12,8 @@ procedures for contributors
 
 The following are indicators for consideration for this category
 
-| Indicator Name | Source | Description | 
-| --- | --- | --- |
+| Indicator Name | Source | Description | Data Type |
+| --- | --- | --- | --- | 
 
 
 See [this page](sources.md) for information about the list of maturity sources
