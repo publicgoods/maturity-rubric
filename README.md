@@ -11,7 +11,12 @@ Many digital platforms have been developed to support the Sustainable Developmen
 However, there are few metrics or systems defined to evaluate the maturity, quality, and
 sustainability of these goods. 
 
-This project is a cooperative effort led by [Digital Impact Alliance](https://digitalimpactalliance.org) and partners to establish a core set of categories and criteria that can be used to evaluate and 'score' digital technologies. This data will provide much needed information to help actors understand and select digital tools to support their projects and use cases.
+This project is a cooperative effort led by [Digital Impact Alliance](https://digitalimpactalliance.org) and partners to establish a core set of categories and criteria that can be used to evaluate and 'score' digital technologies. This data will provide much needed information to help actors understand and select digital tools to support their projects and use cases. In alignment with the principle of [Reuse and Improve](https://digitalprinciples.org/principle/reuse-and-improve/) from the Principles for Digital Development, the following sources were harmonized to create the first iteration of the categories and criteria:
+- [CHAOSS](https://chaoss.community/metrics/)
+- [Digital Square Global Good Maturity Model](https://wiki.digitalsquare.io/index.php/What_are_Global_Goods)
+- [DIAL Open Source Center Project Maturity Evaluation](https://www.osc.dial.community/maturity-model.html)
+- [ClearlyDefined](https://github.com/clearlydefined/license-score/blob/master/ClearlyLicensedMetrics.md)
+
 
 
 ## Table of Contents
